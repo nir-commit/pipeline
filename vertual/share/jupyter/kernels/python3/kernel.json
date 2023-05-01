@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/Nirmalya/anaconda3_1/Project_demo/vertual\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
